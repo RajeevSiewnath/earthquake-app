@@ -1,0 +1,53 @@
+#app {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+#controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#controls > * {
+    flex: 1;
+    text-align: right;
+}
+
+.pager {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.pager > * {
+    flex: 1;
+    text-align: center;
+}
+
+#results {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.result {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.result > div {
+    flex: 1;
+}
+
+.result > div:nth-child(2) {
+    flex: 3;
+}
+
+.result:first-child {
+    font-weight: bold;
+}

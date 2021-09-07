@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1630880727000,
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=6",
+    "title": "USGS Earthquakes",
+    "status": 200,
+    "api": "1.12.1",
+    "count": 16
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.3,
+        "place": "Kermadec Islands, New Zealand",
+        "time": 1630378370542,
+        "updated": 1630639141040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f60j",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000f60j&format=geojson",
+        "felt": 5,
+        "cdi": 8.3,
+        "mmi": 3.655,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 1,
+        "sig": 615,
+        "net": "us",
+        "code": "7000f60j",
+        "ids": ",at00qyoo01,us7000f60j,pt21243000,usauto7000f60j,",
+        "sources": ",at,us,pt,usauto,",
+        "types": ",dyfi,impact-link,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 9.789,
+        "rms": 0.72,
+        "gap": 31,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 6.3 - Kermadec Islands, New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.3691,
+          -29.9168,
+          16
+        ]
+      },
+      "id": "us7000f60j"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6,
+        "place": "223 km SSW of Severo-Kuril’sk, Russia",
+        "time": 1629783471181,
+        "updated": 1629922403040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000f2ws",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000f2ws&format=geojson",
+        "felt": 2,
+        "cdi": 4.1,
+        "mmi": 4.161,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 555,
+        "net": "us",
+        "code": "7000f2ws",
+        "ids": ",us7000f2ws,usauto7000f2ws,at00qybwz3,pt21236000,",
+        "sources": ",us,usauto,at,pt,",
+        "types": ",dyfi,ground-failure,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 4.634,
+        "rms": 0.59,
+        "gap": 80,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 6.0 - 223 km SSW of Severo-Kuril’sk, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.9559,
+          48.8152,
+          30.96
+        ]
+      },
+      "id": "us7000f2ws"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 7.1,
+        "place": "South Sandwich Islands region",
+        "time": 1629668000241,
+        "updated": 1629833800437,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9sq",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f9sq&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 3.712,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 1,
+        "sig": 776,
+        "net": "us",
+        "code": "6000f9sq",
+        "ids": ",us6000f9sq,pt21234002,at00qy9fvn,usauto6000f9sq,",
+        "sources": ",us,pt,at,usauto,",
+        "types": ",finite-fault,general-text,impact-link,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 9.788,
+        "rms": 0.43,
+        "gap": 32,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 7.1 - South Sandwich Islands region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.8953,
+          -60.2914,
+          14
+        ]
+      },
+      "id": "us6000f9sq"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.8,
+        "place": "South Sandwich Islands region",
+        "time": 1629593108217,
+        "updated": 1629744727040,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9gd",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f9gd&format=geojson",
+        "felt": 1,
+        "cdi": 1,
+        "mmi": 3.609,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 1,
+        "sig": 711,
+        "net": "us",
+        "code": "6000f9gd",
+        "ids": ",us6000f9gd,pt21234000,at00qy7u3d,usauto6000f9gd,",
+        "sources": ",us,pt,at,usauto,",
+        "types": ",dyfi,impact-link,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 8.804,
+        "rms": 0.9,
+        "gap": 46,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 6.8 - South Sandwich Islands region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.3444,
+          -60.1218,
+          11
+        ]
+      },
+      "id": "us6000f9gd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6,
+        "place": "South Sandwich Islands region",
+        "time": 1629323395690,
+        "updated": 1630712658715,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f843",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f843&format=geojson",
+        "felt": 0,
+        "cdi": 1,
+        "mmi": 3.924,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 554,
+        "net": "us",
+        "code": "6000f843",
+        "ids": ",us6000f843,usauto6000f843,at00qy21ze,pt21230003,",
+        "sources": ",us,usauto,at,pt,",
+        "types": ",dyfi,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 7.707,
+        "rms": 0.69,
+        "gap": 27,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 6.0 - South Sandwich Islands region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.3467,
+          -59.6339,
+          28
+        ]
+      },
+      "id": "us6000f843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.9,
+        "place": "17 km N of Port-Olry, Vanuatu",
+        "time": 1629281405236,
+        "updated": 1630645383233,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7vg",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f7vg&format=geojson",
+        "felt": 10,
+        "cdi": 8.2,
+        "mmi": 6.511,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 1,
+        "sig": 741,
+        "net": "us",
+        "code": "6000f7vg",
+        "ids": ",at00qy15ku,us6000f7vg,pt21230001,usauto6000f7vg,",
+        "sources": ",at,us,pt,usauto,",
+        "types": ",dyfi,ground-failure,impact-link,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 0.579,
+        "rms": 0.77,
+        "gap": 54,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 6.9 - 17 km N of Port-Olry, Vanuatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.0605,
+          -14.8808,
+          93
+        ]
+      },
+      "id": "us6000f7vg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.1,
+        "place": "South Sandwich Islands region",
+        "time": 1629222806627,
+        "updated": 1629387485702,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f7ks",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f7ks&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 3.833,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 572,
+        "net": "us",
+        "code": "6000f7ks",
+        "ids": ",usauto6000f7ks,at00qxzwd9,pt21229002,us6000f7ks,",
+        "sources": ",usauto,at,pt,us,",
+        "types": ",internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 7.234,
+        "rms": 0.71,
+        "gap": 21,
+        "magType": "ma",
+        "type": "earthquake",
+        "title": "M 6.1 - South Sandwich Islands region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.4251,
+          -58.0462,
+          31.85
+        ]
+      },
+      "id": "us6000f7ks"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.9,
+        "place": "South Sandwich Islands region",
+        "time": 1629112236568,
+        "updated": 1630216533018,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f6wt",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f6wt&format=geojson",
+        "felt": 3,
+        "cdi": 6.4,
+        "mmi": 3.641,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 1,
+        "sig": 734,
+        "net": "us",
+        "code": "6000f6wt",
+        "ids": ",us6000f6wt,pt21228001,at00qxxj1v,usauto6000f6wt,",
+        "sources": ",us,pt,at,usauto,",
+        "types": ",dyfi,ground-failure,impact-link,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 8.363,
+        "rms": 0.71,
+        "gap": 48,
+        "magType": "ma",
+        "type": "earthquake",
+        "title": "M 6.9 - South Sandwich Islands region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.3552,
+          -58.3686,
+          16.61
+        ]
+      },
+      "id": "us6000f6wt"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 7.2,
+        "place": "Nippes, Haiti",
+        "time": 1628944148422,
+        "updated": 1630803909062,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f65h",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f65h&format=geojson",
+        "felt": 352,
+        "cdi": 9.1,
+        "mmi": 8.677,
+        "alert": "red",
+        "status": "reviewed",
+        "tsunami": 1,
+        "sig": 2320,
+        "net": "us",
+        "code": "6000f65h",
+        "ids": ",at00qxtxcn,pt21226002,us6000f65h,usauto6000f65h,",
+        "sources": ",at,pt,us,usauto,",
+        "types": ",dyfi,earthquake-name,finite-fault,general-text,ground-failure,impact-link,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+        "nst": null,
+        "dmin": 1.174,
+        "rms": 0.73,
+        "gap": 23,
+        "magType": "ma",
+        "type": "earthquake",
+        "title": "M 7.2 - Nippes, Haiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4753,
+          18.4079,
+          10
+        ]
+      },
+      "id": "us6000f65h"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 6.9,
+        "place": "119 km SE of Perryville, Alaska",
+        "time": 1628942263715,
+        "updated": 1629941231397,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f652",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000f652&format=geojson",
+        "felt": 11,
+        "cdi": 5.4,
+        "mmi": 4.148,
+        "alert": "green",
+        "status": "reviewed",
+        "tsunami": 1,
+        "sig": 738,
+        "net": "us",
+        "code": "6000f652",
+        "ids": ",ak021adyci6n,at00qxtvwa,pt21226001,usauto6000f652,us6000f652,",
+        "sources": ",ak,at,pt,usauto,us,",
+        "types": ",dyfi,impact-link,internal-moment-tensor,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": 1.156,
+        "rms": 0.61,
+        "gap": 56,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 6.9 - 119 km SE of Perryville, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6891,
+          55.2228,
+          21.43
+        ]
+      },
+      "id": "us6000f652"
+    }
+  ],
+  "bbox": [
+    -177.3691,
+    -60.4912,
+    10,
+    167.0605,
+    55.2228,
+    93
+  ]
+}
